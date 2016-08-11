@@ -271,6 +271,9 @@ background-color:#57A1E5 ;
 form {
   max-width: 100%;
   display: block;
+font-family: 'Fruktur', cursive;
+font-family: 'Cormorant SC', serif;
+    font-size: 100px;
 }
  /* ul {
     margin: 0;
@@ -383,4 +386,8 @@ border: 10px solid transparent;
 
 .position {
     position: fixed;
+}
+em{
+font-family: 'Fruktur', cursive;
+font-family: 'Cormorant SC', serif
 }
