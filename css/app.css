@@ -269,11 +269,11 @@ background-color:#57A1E5 ;
 
 
 form {
-  max-width: 100%;
-  display: block;
+max-width: 100%;
+display: block;
 font-family: 'Fruktur', cursive;
 font-family: 'Cormorant SC', serif;
-    font-size: 100px;
+font-size: 100px;
 }
  /* ul {
     margin: 0;
@@ -317,13 +317,13 @@ font-family: 'Cormorant SC', serif;
     display: block;
     margin: 0 0 0.5em 0;
     color:#57A1E5;
-    font-size:16px;
+    font-size:30px;
   }
   input {
     margin: 0 0 0.5em 0;
     padding: 6px 10px;
     color:white;
-    font-size: pxtoem(16, 16);
+    font-size: pxtoem(56, 56);
   }
   textarea {
     border: 1px solid #57A1E5;
@@ -389,5 +389,12 @@ border: 10px solid transparent;
 }
 em{
 font-family: 'Fruktur', cursive;
-font-family: 'Cormorant SC', serif
+font-family: 'Cormorant SC', serif;
+}
+
+
+.cente {
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
 }
